@@ -1,0 +1,7 @@
+com\algaworks\agenda\model\Contato.class
+com\algaworks\agenda\repository\Contatos.class
+com\algaworks\agenda\util\jpa\TransactionInterceptor.class
+com\algaworks\agenda\testes\GeraTabelas.class
+com\algaworks\agenda\controller\CadastroContatoBean.class
+com\algaworks\agenda\util\jpa\Transactional.class
+com\algaworks\agenda\util\jpa\EntityManagerProducer.class
